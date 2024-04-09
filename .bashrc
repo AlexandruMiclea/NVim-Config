@@ -142,8 +142,3 @@ export PATH="/opt/android-studio/bin:$PATH"
 export ANDROID_HOME=$HOME/Android/Sdk
 export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/platform-tools
-
-# Aliases
-alias nvim-conf="cd ~/.config/nvim && nvim ."
-alias uni-repos="cd \"/home/alexmiclea/Documents/Facultate/GitHub Repos\""
-alias work-repos="cd \"/home/alexmiclea/Documents/work-folder\""
