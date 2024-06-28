@@ -137,6 +137,7 @@ unset __conda_setup
 export PATH="$HOME/.cargo/bin:$PATH"
 export PATH="/opt/idea/bin:$PATH"
 export PATH="/opt/flutter/bin:$PATH"
+export PATH="/opt/ghidra_11.0.3_PUBLIC/bin:$PATH"
 export PATH="/opt/android-studio/bin:$PATH"
 
 export ANDROID_HOME=$HOME/Android/Sdk

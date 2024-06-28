@@ -18,11 +18,10 @@ return {
 				"clangd",
 				"hls",
 				"ltex",
-				"pyright",
 				"sqlls",
 				"html",
+                "pylsp",
 				"cssls",
-				"pyright",
 			},
 			automatic_installation = true,
 		})
